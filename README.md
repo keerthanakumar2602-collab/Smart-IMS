@@ -373,12 +373,6 @@ Open `http://localhost:3000` in your browser to access the IMS, and log in using
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🏁 Conclusion
 
 RIT Smart IMS demonstrates how a shared-database architecture can eliminate the synchronization overhead typically found in multi-system academic platforms. By combining a department-aware IMS, a role-based LMS, and an automated email-to-event pipeline, the project delivers a connected experience where assignment data, academic records, and event notifications stay consistent without manual upkeep. The system was built end-to-end — from database design to third-party API integration — as a practical exploration of full-stack engineering applied to a real institutional problem.
