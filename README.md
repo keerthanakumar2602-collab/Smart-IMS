@@ -1,4 +1,4 @@
-# 🎓 RIT Smart Institute Management System
+# 🎓 Smart Institute Management System
 
 An integrated academic platform connecting an **Institute Management System (IMS)**, a **Moodle-style Learning Management System (LMS)**, and an **automated Email-to-Event pipeline** — all powered by a single shared database, eliminating the need for manual data synchronization between systems.
 
@@ -19,7 +19,7 @@ There was a need for a connected system where academic data, assignment submissi
 
 ## 💡 Solution Overview
 
-**RIT Smart IMS** solves this by architecting three interconnected services that share a single MySQL database as the source of truth:
+** Smart IMS** solves this by architecting three interconnected services that share a single MySQL database as the source of truth:
 
 1. **IMS Dashboard** — gives students a real-time view of their academic standing and deadlines, filtered strictly to their enrolled courses
 2. **Moodle-style LMS** — lets faculty create assignments once, with the system automatically generating tracking records for every enrolled student
