@@ -348,8 +348,8 @@ Open `http://localhost:3000` in your browser to access the IMS, and log in using
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **IMS Login**<br><img src="Screenshots/ims-login.png" width="450">                 | **Moodle Login**<br><img src="Screenshots/moodle-login.png" width="450">                   |
 | **Dashboard**<br><img src="Screenshots/dashboard.png" width="450">                 | **Student Dashboard**<br><img src="Screenshots/student-dashboard.png" width="450">         |
-| **Academic Calendar**<br><img src="Screenshots/academic-calender.png" width="450"> | **Assignment Submission**<br><img src="Screenshots/assignment-submission.png" width="450"> |
-| **Event Calendar**<br><img src="Screenshots/event-calender.png" width="450">       | **Faculty Dashboard**<br><img src="Screenshots/faculty-dashboard.jpeg" width="450">        |
+| **Academic Calendar**<br><img src="Screenshots/academic-calendar.png" width="450"> | **Assignment Submission**<br><img src="Screenshots/assignment-submission.png" width="450"> |
+| **Event Calendar**<br><img src="Screenshots/event-calendar.png" width="450">       | **Faculty Dashboard**<br><img src="Screenshots/faculty-dashboard.jpeg" width="450">        |
 | WhatsApp Reminder                                          |
 | ---------------------------------------------------------- |
 | <img src="Screenshots/whatsapp-reminder.jpeg" width="350"> |
